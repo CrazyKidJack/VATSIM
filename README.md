@@ -5,7 +5,7 @@ The "ImportAliases2Facility" project is empty. When building the solution from s
 See the [wiki](https://github.com/CrazyKidJack/VATSIM/wiki) for documentation and the [releases page](https://github.com/CrazyKidJack/VATSIM/releases) for downloads and release notes!
 
 # Want to Contribute?
-Clone the repo and file a pull request!
+Clone the repo and file a [pull request](https://github.com/CrazyKidJack/VATSIM/pulls)!
 
 # Have a question or recommendation for new features/programs?
 Use the [discussion](https://github.com/CrazyKidJack/VATSIM/discussions) page!
