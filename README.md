@@ -7,9 +7,9 @@ See the [wiki](https://github.com/CrazyKidJack/VATSIM/wiki) for documentation an
 ## Want to Contribute?
 Clone the repo and file a [pull request](https://github.com/CrazyKidJack/VATSIM/pulls)!
 
-## Have a question or brainstorming new features/programs?
+## Have a question or brainstorming new features or want to request new programs?
 Use the [discussion](https://github.com/CrazyKidJack/VATSIM/discussions) page!
 * Also feel free to show off what you can do with these programs on the discussion page as well :)
 
-## Found an issue with existing code or have a specific feature request?
+## Found an issue with existing code or have a feature request for an already existing program?
 Use the [issue tracking page](https://github.com/CrazyKidJack/VATSIM/issues)!
