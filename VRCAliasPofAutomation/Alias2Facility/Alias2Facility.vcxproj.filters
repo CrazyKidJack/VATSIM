@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="bit7z">
+      <UniqueIdentifier>{6784e50b-f668-4509-b85a-ef7c7d920549}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bit7z\Headers">
+      <UniqueIdentifier>{98476f33-ffb7-4416-b81c-27c89bbbbbd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bit7z\Library">
+      <UniqueIdentifier>{54894be3-bab7-44de-af39-45a61448ab48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DLLs">
+      <UniqueIdentifier>{33092eac-23d0-4a05-b7b9-da2ebb93f658}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="convertVRCalias2XML.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bit7z\include\bit7z.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bit7zlibrary.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitarchivecreator.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitarchivehandler.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitarchiveinfo.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitarchiveitem.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitarchiveopener.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitcompressionlevel.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitcompressionmethod.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitcompressor.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitexception.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitextractor.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitformat.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitguids.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitinputarchive.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitmemcompressor.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitmemextractor.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitpropvariant.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitstreamcompressor.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bitstreamextractor.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="bit7z\include\bittypes.hpp">
+      <Filter>bit7z\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="bit7z\lib\bit7z.lib">
+      <Filter>bit7z\Library</Filter>
+    </Library>
+    <Library Include="bit7z\lib\bit7z_d.lib">
+      <Filter>bit7z\Library</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bit7z\lib\bit7z_d.pdb">
+      <Filter>bit7z\Library</Filter>
+    </None>
+  </ItemGroup>
+</Project>
