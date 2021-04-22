@@ -3,3 +3,13 @@ Currently only the Alias2Facility program is implemented.
 The "ImportAliases2Facility" project is empty. When building the solution from scratch, that project raises errors that should be ignored.
 
 See the [wiki](https://github.com/CrazyKidJack/VATSIM/wiki) for documentation and the [releases page](https://github.com/CrazyKidJack/VATSIM/releases) for downloads and release notes!
+
+# Want to Contribute?
+Clone the repo and file a pull request!
+
+# Have a question or recommendation for new features/programs?
+Use the [discussion](https://github.com/CrazyKidJack/VATSIM/discussions) page!
+* Also feel free to show off what you can do with these programs on the discussion page as well :)
+
+# Found an issue with existing code?
+Use the [issue tracking page](https://github.com/CrazyKidJack/VATSIM/issues)!
