@@ -1,4 +1,8 @@
 # Jackson Pfeffer's Automation for VATSIM
+## How to install/use?
+See the [wiki](https://github.com/CrazyKidJack/VATSIM/wiki)
+
+## Info
 * Currently only the Alias2Facility program is implemented.
 * The "ImportAliases2Facility" project is empty. When building the solution from scratch, that project raises errors that should be ignored.
 
